@@ -1,10 +1,10 @@
 # lab4web
 
 
-## Biodata
-
+## Profil
+| #               | Biodata           |
 | --------------- | ----------------- |
-| **Nama**        | Zhafira A. K.     |
+| **Nama**        | Zhafira A. K      |
 | **NIM**         | 312110067         |
 | **Kelas**       | TI.21.A.1         |
 | **Mata Kuliah** | Pemrograman Web 2 |
@@ -107,7 +107,7 @@ $result = mysqli_query($conn, $sql);
 <?php require('footer.php'); ?>
 ```
 ## Ini adalah tampilan home
-![Gambar 1](screenshoot/ss1.png)
+![Gambar 1](img/ss1.png)
 Buat file baru dengan nama about.php<p>
 ```
 ?php require('header.php'); ?>
@@ -120,7 +120,7 @@ Buat file baru dengan nama about.php<p>
 <?php require('footer.php'); ?>
 ```
 ## Ini adalah tampilan about
-![Gambar 2](screenshoot/ss2.png)
+![Gambar 2](img/ss2.png)
 
 Buat file baru dengan nama kontak.php<p>
 ```
@@ -139,7 +139,7 @@ Buat file baru dengan nama kontak.php<p>
 <?php require('footer.php'); ?>
 ```
 ## Ini adalah tampilan kontak
-![Gambar 3](screenshoot/ss3.png)
+![Gambar 3](img/ss3.png)
 Buat file baru dengan nama index.php<p>
 ```
 <!DOCTYPE html>
